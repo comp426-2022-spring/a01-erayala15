@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/comp426-2022-spring/a01-erayala15.git"
   },
+  "keywords": [
+    "web",
+    "server",
+    "node"
+  ],
   "author": "Ethan David Rayala",
   "license": "GPL-3.0-or-later",
   "bugs": {
